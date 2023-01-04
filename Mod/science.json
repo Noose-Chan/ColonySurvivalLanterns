@@ -1,0 +1,31 @@
+[
+	{
+		"colonyPointRequirement": 750,
+		"dependencies": [
+			"pipliz.jewellery",
+			"pipliz.researcher",
+			"pipliz.lanterns"
+		],
+		"icon": "./textures/icons/lanternyellow.png",
+		"itemRequirements": [
+			{
+				"amount": 30,
+				"type": "bookofknowledge"
+			},
+			{
+				"amount": 500,
+				"type": "alkanet"
+			},
+			{
+				"amount": 500,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 500,
+				"type": "wolfsbane"
+			}
+		],
+		"key": "Noose.LanternMod",
+		"sortWeight": 100746
+	}
+]

@@ -1,0 +1,26 @@
+[
+{
+		"baseType": {
+			"attachBehaviour": [
+				{
+					"id": "craftingblock",
+					"npcType": "Noose.lanternmaker",
+					"timeBetweenHauls": 40,
+					"toolset": "notool"
+				}
+			],
+			"categories": [
+				"job"
+			],
+			"icon": "./textures/icons/dyertable.png",
+			"needsBase": true,
+			"onPlaceAudio": "woodPlace",
+			"onRemoveAudio": "woodDeleteLight",
+			"pathingImpact": "AsUntouchableSolid",
+			"sideall": "coatedplanks",
+			"sidey+": "dyertable"
+		},
+		"generateType": "rotateBlock",
+		"typeName": "lanternmaker"
+	}
+]

@@ -1,0 +1,14 @@
+[
+	/*
+		for worker npcTypes:
+		- keyName -> unique ID used when referencing this in jobs and such
+		- movementSpeed -> speed of the npc while holding this job
+		- maskColor0, maskColor1 -> npc mask color, currently only maskColor1 is used (?)
+	*/
+	
+	{
+		"keyName": "Noose.lanternmaker",
+		"maskColor1": "#49a684",
+		"npcType": "worker"
+	}
+]

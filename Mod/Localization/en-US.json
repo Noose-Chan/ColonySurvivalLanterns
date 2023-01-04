@@ -1,0 +1,25 @@
+{
+	"types":
+	{
+		"Noose.glasswindow": "Glass Window"
+	},
+	"typeuses":
+	{
+		"Noose.glasswindow": "Some fancy windows to make your builds look nicer"
+	},
+	"sentences": {
+		"Noose": {
+			"glasswindow": {
+				"description": "Unlocks Windows uto see through.",
+				"name": "Glass Window"
+			}
+		}
+	}
+	"Noose": {
+			"glasswindow": {
+				"description": "Unlocks Glass Windows, which allows you to see through",
+				"name": "Glass Window"
+			},
+		}
+			
+}

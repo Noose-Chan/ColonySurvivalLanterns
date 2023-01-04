@@ -1,0 +1,23 @@
+{
+    "_settings" : {
+        "defaultAlbedo" : "./albedo/error.png",
+        "defaultEmissive" : "./emissiveMaskAlpha/neutral.png",
+        "defaultHeight" : "./heightSmoothnessSpecularity/neutral.png",
+        "defaultNormal" : "./normal/neutral.png",
+        "fileExtension" : ".png",
+        "folderAlbedo" : "./blocks/albedo/",
+        "folderEmissive" : "./blocks/emissiveMaskAlpha/",
+        "folderHeight" : "./blocks/heightSmoothnessSpecularity/",
+        "folderNormal" : "./blocks/normal/"
+    },
+	"glasswindow": {
+		"albedo": "bricks",
+		"height": "bricks",
+		"normal": "bricks"
+	},
+	"testing": {
+		"albedo": "bricks",
+		"height": "lantern",
+		"normal": "lantern"
+	}
+}

@@ -1,0 +1,572 @@
+[
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanternblue_dim",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanternblue_dim"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanterncyan_dim",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanterncyan_dim"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanterngreen_dim",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanterngreen_dim"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanterngreen_dim",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanterngreen_dim"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanternpink_dim",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanternpink_dim"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanternred_dim_dim",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanternblue_dim"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanternred_dim",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanternblue_dim"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanternwhite_dim_dim",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanternwhite_dim"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanternyellow_dim",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanternyellow_dim"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanternblue_bright",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanternblue_bright"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanterncyan_bright",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanterncyan_bright"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanterngreen_bright",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanterngreen_bright"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanternorange_bright",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanternorange_bright"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanternpink_bright",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanternpink_bright"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanternred_bright",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanternred_bright"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanternwhite_bright",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanternwhite_bright"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanternyellow_bright",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanternyellow_bright"
+			}
+		],
+		"sortWeight": 313470
+	}
+]
+
+
+
+
+
+
+
+
+//Noose.lanternmaker

@@ -1,0 +1,359 @@
+{
+  //--DIM--
+  "lanternblue_dim": {
+    "categories": [
+      "decorative",
+      "lantern"
+    ],
+    "color": "#4f5fff",
+    "customData": {
+      "torches": {
+        "merged": {
+          "color": "#4f5fff",
+          "intensity": 6.25,
+          "range": 16,
+          "volume": 0.5
+        }
+      }
+    },
+    "icon": "./textures/icons/lanternblue.png",
+    "maxStackSize": 200,
+    "onPlaceAudio": "woodPlace",
+    "onRemoveAudio": "woodDeleteLight",
+    "sideall": "lantern"
+  },
+  "lanterncyan_dim": {
+    "categories": [
+      "decorative",
+      "lantern"
+    ],
+    "color": "#3bc1bf",
+    "customData": {
+      "torches": {
+        "merged": {
+          "color": "#3bc1bf",
+          "intensity": 6.25,
+          "range": 16,
+          "volume": 0.5
+        }
+      }
+    },
+    "icon": "./textures/icons/lanterncyan.png",
+    "maxStackSize": 200,
+    "onPlaceAudio": "woodPlace",
+    "onRemoveAudio": "woodDeleteLight",
+    "sideall": "lantern"
+  },
+  "lanterngreen_dim": {
+    "categories": [
+      "decorative",
+      "lantern"
+    ],
+    "color": "#56ad4a",
+    "customData": {
+      "torches": {
+        "merged": {
+          "color": "#56ad4a",
+          "intensity": 6.25,
+          "range": 16,
+          "volume": 0.5
+        }
+      }
+    },
+    "icon": "./textures/icons/lanterngreen.png",
+    "maxStackSize": 200,
+    "onPlaceAudio": "woodPlace",
+    "onRemoveAudio": "woodDeleteLight",
+    "sideall": "lantern"
+  },
+  "lanternpink_dim": {
+    "categories": [
+      "decorative",
+      "lantern"
+    ],
+    "color": "#d233a6",
+    "customData": {
+      "torches": {
+        "merged": {
+          "color": "#d233a6",
+          "intensity": 6.25,
+          "range": 16,
+          "volume": 0.5
+        }
+      }
+    },
+  "icon": "./textures/icons/lanternpink.png",
+  "maxStackSize": 200,
+  "onPlaceAudio": "woodPlace",
+  "onRemoveAudio": "woodDeleteLight",
+  "sideall": "lantern"
+  },
+    //--BRIGHT--
+    "lanternblue_bright": {
+      "categories": [
+        "decorative",
+        "lantern"
+      ],
+      "color": "#4f5fff",
+      "customData": {
+        "torches": {
+          "merged": {
+            "color": "#4f5fff",
+            "intensity": 18.75,
+            "range": 16,
+            "volume": 0.5
+          }
+        }
+      },
+      "icon": "./textures/icons/lanternblue.png",
+      "maxStackSize": 200,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "lantern"
+    },
+    "lanterncyan_bright": {
+      "categories": [
+        "decorative",
+        "lantern"
+      ],
+      "color": "#3bc1bf",
+      "customData": {
+        "torches": {
+          "merged": {
+            "color": "#3bc1bf",
+            "intensity": 18.75,
+            "range": 16,
+            "volume": 0.5
+          }
+        }
+      },
+      "icon": "./textures/icons/lanterncyan.png",
+      "maxStackSize": 200,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "lantern"
+    },
+    "lanterngreen_bright": {
+      "categories": [
+        "decorative",
+        "lantern"
+      ],
+      "color": "#56ad4a",
+      "customData": {
+        "torches": {
+          "merged": {
+            "color": "#56ad4a",
+            "intensity": 18.75,
+            "range": 16,
+            "volume": 0.5
+          }
+        }
+      },
+      "icon": "./textures/icons/lanterngreen.png",
+      "maxStackSize": 200,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "lantern"
+    },
+    "lanternorange_bright": {
+      "categories": [
+        "decorative",
+        "lantern"
+      ],
+      "color": "#e66f27",
+      "customData": {
+        "torches": {
+          "merged": {
+            "color": "#e66f27",
+            "intensity": 18.75,
+            "range": 16,
+            "volume": 0.5
+          }
+        }
+      },
+      "icon": "./textures/icons/lanternorange.png",
+      "maxStackSize": 200,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "lantern"
+    },
+    "lanternorange_dim": {
+      "categories": [
+        "decorative",
+        "lantern"
+      ],
+      "color": "#e66f27",
+      "customData": {
+        "torches": {
+          "merged": {
+            "color": "#e66f27",
+            "intensity": 6.25,
+            "range": 16,
+            "volume": 0.5
+          }
+        }
+      },
+      "icon": "./textures/icons/lanternpink.png",
+      "maxStackSize": 200,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "lantern"
+    },
+    "lanternpink_bright": {
+      "categories": [
+        "decorative",
+        "lantern"
+      ],
+      "color": "#d233a6",
+      "customData": {
+        "torches": {
+          "merged": {
+            "color": "#d233a6",
+            "intensity": 18.75,
+            "range": 16,
+            "volume": 0.5
+          }
+        }
+      },
+      "icon": "./textures/icons/lanternpink.png",
+      "maxStackSize": 200,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "lantern"
+    },
+    "lanternred_bright": {
+      "categories": [
+        "decorative",
+        "lantern"
+      ],
+      "color": "#d33030",
+      "customData": {
+        "torches": {
+          "merged": {
+            "color": "#d33030",
+            "intensity": 18.75,
+            "range": 16,
+            "volume": 0.5
+          }
+        }
+      },
+      "icon": "./textures/icons/lanternred.png",
+      "maxStackSize": 200,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "lantern"
+    },
+    "lanternred_dim": {
+      "categories": [
+        "decorative",
+        "lantern"
+      ],
+      "color": "#d33030",
+      "customData": {
+        "torches": {
+          "merged": {
+            "color": "#d33030",
+            "intensity": 6.25,
+            "range": 16,
+            "volume": 0.5
+          }
+        }
+      },
+      "icon": "./textures/icons/lanternred.png",
+      "maxStackSize": 200,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "lantern"
+    },
+    "lanternwhite_bright": {
+      "categories": [
+        "decorative",
+        "lantern"
+      ],
+      "color": "#a7a7a7",
+      "customData": {
+        "torches": {
+          "merged": {
+            "color": "#a7a7a7",
+            "intensity": 18.75,
+            "range": 16,
+            "volume": 0.5
+          }
+        }
+      },
+      "icon": "./textures/icons/lanternwhite.png",
+      "maxStackSize": 200,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "lantern"
+    },
+    "lanternwhite_dim": {
+      "categories": [
+        "decorative",
+        "lantern"
+      ],
+      "color": "#a7a7a7",
+      "customData": {
+        "torches": {
+          "merged": {
+            "color": "#a7a7a7",
+            "intensity": 6.25,
+            "range": 16,
+            "volume": 0.5
+          }
+        }
+      },
+      "icon": "./textures/icons/lanternwhite.png",
+      "maxStackSize": 200,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "lantern"
+    },
+    "lanternyellow_bright": {
+      "categories": [
+        "essential",
+        "lantern"
+      ],
+      "color": "#997b45",
+      "customData": {
+        "torches": {
+          "merged": {
+            "color": "#997b45",
+            "intensity": 18.75,
+            "range": 16,
+            "volume": 0.5
+          }
+        }
+      },
+      "icon": "./textures/icons/lanternyellow.png",
+      "maxStackSize": 25,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "lantern"
+    },
+    "lanternyellow_dim": {
+      "categories": [
+        "essential",
+        "lantern"
+      ],
+      "color": "#997b45",
+      "customData": {
+        "torches": {
+          "merged": {
+            "color": "#997b45",
+            "intensity": 6.25,
+            "range": 16,
+            "volume": 0.5
+          }
+        }
+      },
+      "icon": "./textures/icons/lanternyellow.png",
+      "maxStackSize": 25,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "lantern"
+    }
+  }
+}
+
+//"sideall": "neutral"
