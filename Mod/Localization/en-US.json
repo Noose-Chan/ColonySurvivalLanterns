@@ -1,11 +1,12 @@
 {
-	"Noose": {
-		"LanternMod": {
-			"description": "Unlocks lanterns, useful for lighting up places",
-			"name": "Lanterns+"
-		}
-	},
+
 	"sentences": {
+		"Noose": {
+			"LanternMod": {
+				"description": "Unlocks lanterns, useful for lighting up places",
+				"name": "Lanterns+"
+			}
+		},
 		"category": {
 			"consumables": "Consumables",
 			"decorative": "Building Blocks",
@@ -17,44 +18,39 @@
 			"misc": "Misc",
 			"texres": "Textiles & Research",
 			"lights": "Lanterns"
+		},
+		"npcs": {
+			"Noose": {
+				"lanternmaker": "Lantern Maker"
+			}
 		}
 	},
+
 	"types": {
 		"lanternblue_bright": "Bright Blue Lantern",
 		"lanternblue": "Blue Lantern",
 		"lanternblue_dim": "Dim Blue Lantern",
+		"lanterncyan_bright": "Bright Cyan Lantern",
 		"lanterncyan": "Cyan Lantern",
+		"lanterncyan_dim": "Dim Cyan Lantern",
+		"lanterngreen_bright": "Bright Green Lantern",
 		"lanterngreen": "Green Lantern",
+		"lanterngreen_dim": "Dim Green Lantern",
+		"lanternorange_bright+ ": "Bright Orange Lantern",
 		"lanternorange": "Orange Lantern",
+		"lanternorange_dim": "Dim Orange Lantern",
+		"lanternpink_bright": "Bright Pink Lantern",
 		"lanternpink": "Pink Lantern",
+		"lanternpink_dim": "Dim Pink Lantern",
+		"lanternred_bright": "Bright Red Lantern",
 		"lanternred": "Red Lantern",
+		"lanternred_dim": "Dim Red Lantern",
+		"lanternwhite_bright": "Bright White Lantern",
 		"lanternwhite": "White Lantern",
-		"lanternyellow": "Lantern"
-	},
-	"npcs": {
-		"Noose": {
-			"lanternmaker": "lantern Maker"
-		}
-	},
-	"popup": {
-		"merchantui": {
-			"buy": "Purchase",
-			"buy1": "Buy 1",
-			"buy25": "Buy 25",
-			"buy5": "Buy 5",
-			"buy50":  "buy 50",
-			"buytext": "Purchase {0} for {1} points",
-			"buytext2": "Current funds allow for {0} purchase(s)",
-			"currentpoints": "Current Points: {0} / {1}",
-			"description": "Buy/sell items for Points",
-			"header": "Merchant trading",
-			"sell": "Sell",
-			"sell1": "Sell 1",
-			"sell25": "Sell 25",
-			"sell5": "Sell 5",
-			"sell50":  "sell 50",
-			"selltext": "Sell {0} for {1} points",
-			"selltext2": "Current storage allows for {0} sale(s)"
-		}
+		"lanternwhite_dim": "Dim White Lantern",
+		"lanternyellow_bright": "Bright Lantern",
+		"lanternyellow": "Lantern",
+		"lanternyellow_dim": "Dim Lantern",
+		"lanternmaker":  "Lantern Crafting Table"
 	}
 }
