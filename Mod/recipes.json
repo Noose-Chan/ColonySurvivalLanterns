@@ -161,39 +161,7 @@
 				"amount": 1,
 				"type": "lanternpink_dim"
 			}
-		],
-		"sortWeight": 313470
-	},
-	{
-		"cooldown": 60.0,
-		"defaultLimit": 30,
-		"name": "Noose.lanternmaker.lanternred_dim_dim",
-		"requires": [
-			{
-				"amount": 25,
-				"type": "alkanet"
-			},
-			{
-				"amount": 25,
-				"type": "hollyhock"
-			},
-			{
-				"amount": 25,
-				"type": "wolfsbane"
-			}
-		],
-		"requiresScience": "Noose.lanternmaker",
-		"results": [
-			{
-				"type": "Noose.lanternmaker"
-			}
-		],
-		"requiresScience": "Noose.LanternMod",
-		"results": [
-			{
-				"amount": 1,
-				"type": "lanternblue_dim"
-			}
+			//"lanternred_dim"------------------------------------
 		],
 		"sortWeight": 313470
 	},
@@ -225,7 +193,7 @@
 		"results": [
 			{
 				"amount": 1,
-				"type": "lanternblue_dim"
+				"type": "lanternred_dim"
 			}
 		],
 		"sortWeight": 313470
@@ -424,6 +392,39 @@
 			{
 				"amount": 1,
 				"type": "lanternorange_bright"
+			}
+		],
+		"sortWeight": 313470
+	},
+	{
+		"cooldown": 60.0,
+		"defaultLimit": 30,
+		"name": "Noose.lanternmaker.lanternorange_dim",
+		"requires": [
+			{
+				"amount": 25,
+				"type": "alkanet"
+			},
+			{
+				"amount": 25,
+				"type": "hollyhock"
+			},
+			{
+				"amount": 25,
+				"type": "wolfsbane"
+			}
+		],
+		"requiresScience": "Noose.lanternmaker",
+		"results": [
+			{
+				"type": "Noose.lanternmaker"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"amount": 1,
+				"type": "lanternorange_dim"
 			}
 		],
 		"sortWeight": 313470

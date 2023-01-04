@@ -193,7 +193,7 @@
           }
         }
       },
-      "icon": "./textures/icons/lanternpink.png",
+      "icon": "./textures/icons/lanternorange.png",
       "maxStackSize": 200,
       "onPlaceAudio": "woodPlace",
       "onRemoveAudio": "woodDeleteLight",
