@@ -2,7 +2,7 @@
   //--DIM--
   "lanternblue_dim": {
     "categories": [
-      "decorative",
+      "lights",
       "lantern"
     ],
     "color": "#4f5fff",
@@ -24,7 +24,7 @@
   },
   "lanterncyan_dim": {
     "categories": [
-      "decorative",
+      "lights",
       "lantern"
     ],
     "color": "#3bc1bf",
@@ -46,7 +46,7 @@
   },
   "lanterngreen_dim": {
     "categories": [
-      "decorative",
+      "lights",
       "lantern"
     ],
     "color": "#56ad4a",
@@ -68,7 +68,7 @@
   },
   "lanternpink_dim": {
     "categories": [
-      "decorative",
+      "lights",
       "lantern"
     ],
     "color": "#d233a6",
@@ -91,7 +91,7 @@
     //--BRIGHT--
     "lanternblue_bright": {
       "categories": [
-        "decorative",
+        "lights",
         "lantern"
       ],
       "color": "#4f5fff",
@@ -113,7 +113,7 @@
     },
     "lanterncyan_bright": {
       "categories": [
-        "decorative",
+        "lights",
         "lantern"
       ],
       "color": "#3bc1bf",
@@ -135,7 +135,7 @@
     },
     "lanterngreen_bright": {
       "categories": [
-        "decorative",
+        "lights",
         "lantern"
       ],
       "color": "#56ad4a",
@@ -157,7 +157,7 @@
     },
     "lanternorange_bright": {
       "categories": [
-        "decorative",
+        "lights",
         "lantern"
       ],
       "color": "#e66f27",
@@ -179,7 +179,7 @@
     },
     "lanternorange_dim": {
       "categories": [
-        "decorative",
+        "lights",
         "lantern"
       ],
       "color": "#e66f27",
@@ -201,7 +201,7 @@
     },
     "lanternpink_bright": {
       "categories": [
-        "decorative",
+        "lights",
         "lantern"
       ],
       "color": "#d233a6",
@@ -223,7 +223,7 @@
     },
     "lanternred_bright": {
       "categories": [
-        "decorative",
+        "lights",
         "lantern"
       ],
       "color": "#d33030",
@@ -245,7 +245,7 @@
     },
     "lanternred_dim": {
       "categories": [
-        "decorative",
+        "lights",
         "lantern"
       ],
       "color": "#d33030",
@@ -267,7 +267,7 @@
     },
     "lanternwhite_bright": {
       "categories": [
-        "decorative",
+        "lights",
         "lantern"
       ],
       "color": "#a7a7a7",
@@ -289,7 +289,7 @@
     },
     "lanternwhite_dim": {
       "categories": [
-        "decorative",
+        "lights",
         "lantern"
       ],
       "color": "#a7a7a7",
@@ -311,7 +311,7 @@
     },
     "lanternyellow_bright": {
       "categories": [
-        "essential",
+        "lights",
         "lantern"
       ],
       "color": "#997b45",
@@ -333,7 +333,7 @@
     },
     "lanternyellow_dim": {
       "categories": [
-        "essential",
+        "lights",
         "lantern"
       ],
       "color": "#997b45",

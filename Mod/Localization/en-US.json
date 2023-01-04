@@ -1,25 +1,60 @@
 {
-	"types":
-	{
-		"Noose.glasswindow": "Glass Window"
-	},
-	"typeuses":
-	{
-		"Noose.glasswindow": "Some fancy windows to make your builds look nicer"
+	"Noose": {
+		"LanternMod": {
+			"description": "Unlocks lanterns, useful for lighting up places",
+			"name": "Lanterns+"
+		}
 	},
 	"sentences": {
+		"category": {
+			"consumables": "Consumables",
+			"decorative": "Building Blocks",
+			"defense": "Defense",
+			"essential": "Essentials",
+			"food": "Food",
+			"ingredient": "Ingredients & Luxury",
+			"job": "Jobblocks",
+			"misc": "Misc",
+			"texres": "Textiles & Research",
+			"lights": "Lanterns"
+		}
+	},
+	"types": {
+		"lanternblue_bright": "Bright Blue Lantern",
+		"lanternblue": "Blue Lantern",
+		"lanternblue_dim": "Dim Blue Lantern",
+		"lanterncyan": "Cyan Lantern",
+		"lanterngreen": "Green Lantern",
+		"lanternorange": "Orange Lantern",
+		"lanternpink": "Pink Lantern",
+		"lanternred": "Red Lantern",
+		"lanternwhite": "White Lantern",
+		"lanternyellow": "Lantern"
+	},
+	"npcs": {
 		"Noose": {
-			"glasswindow": {
-				"description": "Unlocks Windows uto see through.",
-				"name": "Glass Window"
-			}
+			"lanternmaker": "lantern Maker"
+		}
+	},
+	"popup": {
+		"merchantui": {
+			"buy": "Purchase",
+			"buy1": "Buy 1",
+			"buy25": "Buy 25",
+			"buy5": "Buy 5",
+			"buy50":  "buy 50",
+			"buytext": "Purchase {0} for {1} points",
+			"buytext2": "Current funds allow for {0} purchase(s)",
+			"currentpoints": "Current Points: {0} / {1}",
+			"description": "Buy/sell items for Points",
+			"header": "Merchant trading",
+			"sell": "Sell",
+			"sell1": "Sell 1",
+			"sell25": "Sell 25",
+			"sell5": "Sell 5",
+			"sell50":  "sell 50",
+			"selltext": "Sell {0} for {1} points",
+			"selltext2": "Current storage allows for {0} sale(s)"
 		}
 	}
-	"Noose": {
-			"glasswindow": {
-				"description": "Unlocks Glass Windows, which allows you to see through",
-				"name": "Glass Window"
-			},
-		}
-			
 }

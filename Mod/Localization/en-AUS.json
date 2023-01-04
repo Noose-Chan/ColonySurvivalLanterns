@@ -1,19 +1,55 @@
 {
-	"types":
-	{
-		"glasswindow": "Glass Window"
-	},
-	"typeuses":
-	{
-		"glasswindow": "Some fancy windows to make your builds look nicer"
-	},
+
 	"sentences": {
 		"Noose": {
-			"glasswindow": {
-				"description": "Unlocks Windows to see through.",
-				"name": "Glass Window"
+			"LanternMod": {
+				"description": "Unlocks lanterns, useful for lighting up places",
+				"name": "Lanterns+"
 			}
+		},
+		"category": {
+			"consumables": "Consumables",
+			"decorative": "Building Blocks",
+			"defense": "Defense",
+			"essential": "Essentials",
+			"food": "Food",
+			"ingredient": "Ingredients & Luxury",
+			"job": "Jobblocks",
+			"misc": "Misc",
+			"texres": "Textiles & Research",
+			"lights": "Lanterns"
+		}
+	},
+
+	"types": {
+		"lanternblue_bright": "Bright Blue Lantern",
+		"lanternblue": "Blue Lantern",
+		"lanternblue_dim": "Dim Blue Lantern",
+		"lanterncyan_bright": "Bright Cyan Lantern",
+		"lanterncyan": "Cyan Lantern",
+		"lanterncyan_dim": "Dim Cyan Lantern",
+		"lanterngreen_bright": "Bright Green Lantern",
+		"lanterngreen": "Green Lantern",
+		"lanterngreen_dim": "Dim Green Lantern",
+		"lanternorange_bright+ ": "Bright Orange Lantern",
+		"lanternorange": "Orange Lantern",
+		"lanternorange_dim": "Dim Orange Lantern",
+		"lanternpink_bright": "Bright Pink Lantern",
+		"lanternpink": "Pink Lantern",
+		"lanternpink_dim": "Dim Pink Lantern",
+		"lanternred_bright": "Bright Red Lantern",
+		"lanternred": "Red Lantern",
+		"lanternred_dim": "Dim Red Lantern",
+		"lanternwhite_bright": "Bright White Lantern",
+		"lanternwhite": "White Lantern",
+		"lanternwhite_dim": "Dim White Lantern",
+		"lanternyellow_bright": "Bright Lantern",
+		"lanternyellow": "Lantern",
+		"lanternyellow_dim": "Dim Lantern"
+	},
+	"npcs": {
+		"Noose": {
+			"lanternmaker": "lantern Maker"
 		}
 	}
-			
 }

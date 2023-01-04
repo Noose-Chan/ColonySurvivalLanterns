@@ -29,7 +29,7 @@
 			},
 			{
 				"fileType": "addOrOverrideLocalization",
-				"relativePath": "./mod/Localization/en-AUS.json"
+				"relativePath": "./mod/Localization/en-US.json"
 			},
 			{
 				"fileType": "addOrOverrideTextureMappingEntries",
