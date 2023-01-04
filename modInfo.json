@@ -34,7 +34,7 @@
 			{
 				"fileType": "addOrOverrideTextureMappingEntries",
 				"index": -1000000,
-				"relativePath": "./mod/textures/materials/texturemapping.json"
+				"relativePath": "mod/textures/materials/texturemapping.json"
 			},
 			{
 				"fileType": "addOrReplaceNPCTypes",

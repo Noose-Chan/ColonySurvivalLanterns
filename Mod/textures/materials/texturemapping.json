@@ -1,23 +1,18 @@
 {
-    "_settings" : {
-        "defaultAlbedo" : "./albedo/error.png",
-        "defaultEmissive" : "./emissiveMaskAlpha/neutral.png",
-        "defaultHeight" : "./heightSmoothnessSpecularity/neutral.png",
-        "defaultNormal" : "./normal/neutral.png",
-        "fileExtension" : ".png",
-        "folderAlbedo" : "./blocks/albedo/",
-        "folderEmissive" : "./blocks/emissiveMaskAlpha/",
-        "folderHeight" : "./blocks/heightSmoothnessSpecularity/",
-        "folderNormal" : "./blocks/normal/"
-    },
-	"glasswindow": {
-		"albedo": "bricks",
-		"height": "bricks",
-		"normal": "bricks"
+	"_settings": {
+		"defaultAlbedo": "./textures/materials/blocks/albedo/error.png",
+		"defaultEmissive": "./textures/materials/blocks/emissiveMaskAlpha/neutral.png",
+		"defaultHeight": "./textures/materials/blocks/heightSmoothnessSpecularity/neutral.png",
+		"defaultNormal": "./textures/materials/blocks/normal/neutral.png",
+		"fileExtension": ".png",
+		"folderAlbedo": "./textures/materials/blocks/albedo/",
+		"folderEmissive": "./textures/materials/blocks/emissiveMaskAlpha/",
+		"folderHeight": "./textures/materials/blocks/heightSmoothnessSpecularity/",
+		"folderNormal": "./textures/materials/blocks/normal/"
 	},
-	"testing": {
-		"albedo": "bricks",
-		"height": "lantern",
-		"normal": "lantern"
-	}
-}
+
+"lanternmaker": {
+		"albedo": "templantern",
+		"height": "dyertable",
+		"normal": "dyertable"
+	},

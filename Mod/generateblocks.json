@@ -1,5 +1,5 @@
 [
-{
+	{
 		"baseType": {
 			"attachBehaviour": [
 				{
@@ -12,13 +12,13 @@
 			"categories": [
 				"job"
 			],
-			"icon": "./textures/icons/dyertable.png",
+			"icon": "./textures/icons/water.png",
 			"needsBase": true,
 			"onPlaceAudio": "woodPlace",
 			"onRemoveAudio": "woodDeleteLight",
 			"pathingImpact": "AsUntouchableSolid",
-			"sideall": "coatedplanks",
-			"sidey+": "dyertable"
+			"sideall": "logwall",
+			"sidey+": "kiln"
 		},
 		"generateType": "rotateBlock",
 		"typeName": "lanternmaker"
