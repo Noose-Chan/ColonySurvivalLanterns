@@ -11,8 +11,9 @@
 		"folderNormal": "./textures/materials/blocks/normal/"
 	},
 
-"lanternmaker": {
-		"albedo": "templantern",
+"test": {
+		"albedo": "test",
 		"height": "dyertable",
 		"normal": "dyertable"
-	},
+	}
+}

@@ -51,7 +51,12 @@
 				"fileType": "generateBlocks",
 				"index": -1000000,
 				"relativePath": "/mod/generateblocks.json"
-			}
+			},
+			{
+                		 "fileType": "overrideTypeProperties",
+               			 "index": 15000,
+               			 "relativePath": "/mod/typesoverride_lanterns+.json"
+            		}
 		]
 	}
 ]

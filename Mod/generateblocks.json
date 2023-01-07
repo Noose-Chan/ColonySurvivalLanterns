@@ -12,13 +12,13 @@
 			"categories": [
 				"job"
 			],
-			"icon": "./textures/icons/water.png",
+			"icon": "./textures/icons/lanternmaker.png",
 			"needsBase": true,
 			"onPlaceAudio": "woodPlace",
 			"onRemoveAudio": "woodDeleteLight",
 			"pathingImpact": "AsUntouchableSolid",
-			"sideall": "logwall",
-			"sidey+": "kiln"
+			"sideall": "coatedplanks",
+			"sidey+": "lanternmaker"
 		},
 		"generateType": "rotateBlock",
 		"typeName": "lanternmaker"
