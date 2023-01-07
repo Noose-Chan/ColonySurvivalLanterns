@@ -1,0 +1,59 @@
+{
+//NORMAL LANTERNS
+"lanternblue": {
+		"categories": [
+			"lights",
+			"ab_bluelantern",
+			"lantern"
+		]
+	},
+	"lanterncyan": {
+		"categories": [
+			"lights",
+			"bb_cyanlantern",
+			"lantern"
+		]
+	},
+	"lanterngreen": {
+		"categories": [
+			"lights",
+				"cb_greenlantern",
+			"lantern"
+		]
+	},
+	"lanternorange": {
+		"categories": [
+			"lights",
+			"db_orangelantern",
+			"lantern"
+		]
+	},
+	"lanternpink": {
+		"categories": [
+			"lights",
+			"eb_pinklantern",
+			"lantern"
+		]
+	},
+	"lanternred": {
+		"categories": [
+			"lights",
+			"fb_redlantern",
+			"lantern"
+		]
+	},
+	"lanternwhite": {
+		"categories": [
+			"lights",
+			"gb_whitelantern",
+			"lantern"
+		]
+	},
+	"lanternyellow": {
+		"categories": [
+			"lights",
+			"hb_yellowlantern",
+			"lantern"
+		]
+	}
+}

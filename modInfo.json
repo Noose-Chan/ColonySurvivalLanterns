@@ -20,7 +20,13 @@
 				"fileType": "addOrReplaceNPCRecipes",
 				"index": -1000000,
 				"npcType": "Noose.lanternmaker",
-				"relativePath": "./mod/recipes.json"
+				"relativePath": "./mod/recipes_lanternmaker.json"
+			},
+{
+				"fileType": "addOrReplaceNPCRecipes",
+				"index": -1000000,
+				"npcType": "pipliz.jobblockcrafteradvanced",
+				"relativePath": "./mod/recipes_jobblockcrafteradvanced.json"
 			},
 			{
 				"fileType": "addScience",

@@ -1,0 +1,24 @@
+[
+	{
+		"cooldown": 240.0,
+		"defaultLimit": 2,
+		"name": "pipliz.jobblockcrafteradvanced.lanternmaker",
+		"requires": [
+			{
+				"amount": 10,
+				"type": "bronzeingot"
+			},
+			{
+				"amount": 20,
+				"type": "bricks"
+			}
+		],
+		"requiresScience": "Noose.LanternMod",
+		"results": [
+			{
+				"type": "lanternmaker"
+			}
+		],
+		"sortWeight": 52842
+	}
+]

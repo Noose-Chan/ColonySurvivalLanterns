@@ -1,42 +1,12 @@
 [
 	{
-		"cooldown": 240.0,
-		"defaultLimit": 2,
-		"name": "pipliz.jobblockcrafteradvanced.",
-		"requires": [
-			{
-				"amount": 10,
-				"type": "bronzeingot"
-			},
-			{
-				"amount": 20,
-				"type": "bricks"
-			}
-		],
-		"requiresScience": "Noose.LanternMod",
-		"results": [
-			{
-				"type": "kiln"
-			}
-		],
-		"sortWeight": 52842
-	},
-	{
 		"cooldown": 60.0,
 		"defaultLimit": 30,
 		"name": "Noose.lanternmaker.lanternblue_dim",
 		"requires": [
-			{
-				"amount": 50,
+		{
+				"amount": 100,
 				"type": "alkanet"
-			},
-			{
-				"amount": 50,
-				"type": "hollyhock"
-			},
-			{
-				"amount": 50,
-				"type": "wolfsbane"
 			}
 		],
 		"requiresScience": "Noose.lanternmaker",
@@ -60,15 +30,11 @@
 		"name": "Noose.lanternmaker.lanterncyan_dim",
 		"requires": [
 			{
-				"amount": 50,
+				"amount": 70,
 				"type": "alkanet"
 			},
 			{
-				"amount": 50,
-				"type": "hollyhock"
-			},
-			{
-				"amount": 50,
+				"amount": 30,
 				"type": "wolfsbane"
 			}
 		],
@@ -93,15 +59,11 @@
 		"name": "Noose.lanternmaker.lanterngreen_dim",
 		"requires": [
 			{
-				"amount": 25,
+				"amount": 50,
 				"type": "alkanet"
 			},
 			{
-				"amount": 25,
-				"type": "hollyhock"
-			},
-			{
-				"amount": 25,
+				"amount": 50,
 				"type": "wolfsbane"
 			}
 		],
@@ -132,10 +94,6 @@
 			{
 				"amount": 50,
 				"type": "hollyhock"
-			},
-			{
-				"amount": 50,
-				"type": "wolfsbane"
 			}
 		],
 		"requiresScience": "Noose.lanternmaker",
@@ -150,7 +108,6 @@
 				"amount": 1,
 				"type": "lanternpink_dim"
 			}
-			//"lanternred_dim"------------------------------------
 		],
 		"sortWeight": 12
 	},
@@ -160,16 +117,8 @@
 		"name": "Noose.lanternmaker.lanternred_dim",
 		"requires": [
 			{
-				"amount": 50,
-				"type": "alkanet"
-			},
-			{
-				"amount": 50,
+				"amount": 100,
 				"type": "hollyhock"
-			},
-			{
-				"amount": 50,
-				"type": "wolfsbane"
 			}
 		],
 		"requiresScience": "Noose.lanternmaker",
@@ -190,7 +139,7 @@
 	{
 		"cooldown": 60.0,
 		"defaultLimit": 30,
-		"name": "Noose.lanternmaker.lanternwhite_dim_dim",
+		"name": "Noose.lanternmaker.lanternwhite_dim",
 		"requires": [
 			{
 				"amount": 50,
@@ -226,16 +175,8 @@
 		"name": "Noose.lanternmaker.lanternyellow_dim",
 		"requires": [
 			{
-				"amount": 50,
-				"type": "alkanet"
-			},
-			{
-				"amount": 50,
+				"amount": 100,
 				"type": "hollyhock"
-			},
-			{
-				"amount": 50,
-				"type": "wolfsbane"
 			}
 		],
 		"requiresScience": "Noose.lanternmaker",
@@ -259,16 +200,8 @@
 		"name": "Noose.lanternmaker.lanternblue_bright",
 		"requires": [
 			{
-				"amount": 50,
+				"amount": 100,
 				"type": "alkanet"
-			},
-			{
-				"amount": 50,
-				"type": "hollyhock"
-			},
-			{
-				"amount": 50,
-				"type": "wolfsbane"
 			}
 		],
 		"requiresScience": "Noose.lanternmaker",
@@ -292,15 +225,11 @@
 		"name": "Noose.lanternmaker.lanterncyan_bright",
 		"requires": [
 			{
-				"amount": 50,
+				"amount": 70,
 				"type": "alkanet"
 			},
 			{
-				"amount": 50,
-				"type": "hollyhock"
-			},
-			{
-				"amount": 50,
+				"amount": 30,
 				"type": "wolfsbane"
 			}
 		],
@@ -327,10 +256,6 @@
 			{
 				"amount": 50,
 				"type": "alkanet"
-			},
-			{
-				"amount": 50,
-				"type": "hollyhock"
 			},
 			{
 				"amount": 50,
@@ -430,10 +355,6 @@
 			{
 				"amount": 50,
 				"type": "hollyhock"
-			},
-			{
-				"amount": 50,
-				"type": "wolfsbane"
 			}
 		],
 		"requiresScience": "Noose.lanternmaker",
@@ -457,16 +378,8 @@
 		"name": "Noose.lanternmaker.lanternred_bright",
 		"requires": [
 			{
-				"amount": 50,
-				"type": "alkanet"
-			},
-			{
-				"amount": 50,
+				"amount": 100,
 				"type": "hollyhock"
-			},
-			{
-				"amount": 50,
-				"type": "wolfsbane"
 			}
 		],
 		"requiresScience": "Noose.lanternmaker",
@@ -523,16 +436,8 @@
 		"name": "Noose.lanternmaker.lanternyellow_bright",
 		"requires": [
 			{
-				"amount": 50,
-				"type": "alkanet"
-			},
-			{
-				"amount": 50,
+				"amount": 100,
 				"type": "hollyhock"
-			},
-			{
-				"amount": 50,
-				"type": "wolfsbane"
 			}
 		],
 		"requiresScience": "Noose.lanternmaker",
@@ -550,8 +455,6 @@
 		],
 		"sortWeight": 21
 	},
-
-	//---------------------------------
 	{
 		"cooldown": 60.0,
 		"defaultLimit": 2,
@@ -581,7 +484,7 @@
 			{
 				"type": "lanternyellow"
 			},
-			{
+{
 				"amount": 50,
 				"type": "alkanet"
 			},

@@ -3,6 +3,7 @@
   "lanternblue_bright": {
     "categories": [
       "lights",
+	"aa_bluelantern",
       "lantern"
     ],
     "color": "#4f5fff",
@@ -26,6 +27,7 @@
   "lanternblue_dim": {
     "categories": [
       "lights",
+	"ac_bluelantern",
       "lantern"
     ],
     "color": "#4f5fff",
@@ -48,6 +50,7 @@
   "lanterncyan_bright": {
     "categories": [
       "lights",
+	"ba_cyanlantern",
       "lantern"
     ],
     "color": "#3bc1bf",
@@ -70,6 +73,7 @@
   "lanterncyan_dim": {
     "categories": [
       "lights",
+	"bc_cyanlantern",
       "lantern"
     ],
     "color": "#3bc1bf",
@@ -92,6 +96,7 @@
   "lanterngreen_bright": {
     "categories": [
       "lights",
+	"ca_greenlantern",
       "lantern"
     ],
     "color": "#56ad4a",
@@ -114,6 +119,7 @@
   "lanterngreen_dim": {
     "categories": [
       "lights",
+	"cc_greenlantern",
       "lantern"
     ],
     "color": "#56ad4a",
@@ -136,6 +142,7 @@
   "lanternorange_bright": {
     "categories": [
       "lights",
+	"da_orangelantern",
       "lantern"
     ],
     "color": "#e66f27",
@@ -158,6 +165,7 @@
   "lanternorange_dim": {
     "categories": [
       "lights",
+	"dc_orangelantern",
       "lantern"
     ],
     "color": "#e66f27",
@@ -180,6 +188,7 @@
   "lanternpink_bright": {
     "categories": [
       "lights",
+	"ea_pinklantern",
       "lantern"
     ],
     "color": "#d233a6",
@@ -202,6 +211,7 @@
   "lanternpink_dim": {
     "categories": [
       "lights",
+	"ec_pinklantern",
       "lantern"
     ],
     "color": "#d233a6",
@@ -224,6 +234,7 @@
   "lanternred_bright": {
     "categories": [
       "lights",
+	"fa_redlantern",
       "lantern"
     ],
     "color": "#d33030",
@@ -246,6 +257,7 @@
   "lanternred_dim": {
     "categories": [
       "lights",
+	"fc_redlantern",
       "lantern"
     ],
     "color": "#d33030",
@@ -268,6 +280,7 @@
   "lanternwhite_bright": {
     "categories": [
       "lights",
+	"ga_whitelantern",
       "lantern"
     ],
     "color": "#a7a7a7",
@@ -290,6 +303,7 @@
   "lanternwhite_dim": {
     "categories": [
       "lights",
+	"gc_whitelantern",
       "lantern"
     ],
     "color": "#a7a7a7",
@@ -312,6 +326,7 @@
   "lanternyellow_bright": {
     "categories": [
       "lights",
+	"ha_yellowlantern",
       "lantern"
     ],
     "color": "#997b45",
@@ -334,6 +349,7 @@
   "lanternyellow_dim": {
     "categories": [
       "lights",
+	"hc_yellowlantern",
       "lantern"
     ],
     "color": "#997b45",
@@ -358,6 +374,7 @@
 "lanternblue": {
 		"categories": [
 			"lights",
+			"ab_bluelantern",
 			"lantern"
 		],
 		"color": "#4f5fff",
@@ -380,6 +397,7 @@
 	"lanterncyan": {
 		"categories": [
 			"lights",
+			"bb_cyanlantern",
 			"lantern"
 		],
 		"color": "#3bc1bf",
@@ -402,6 +420,7 @@
 	"lanterngreen": {
 		"categories": [
 			"lights",
+				"cb_greenlantern",
 			"lantern"
 		],
 		"color": "#56ad4a",
@@ -424,6 +443,7 @@
 	"lanternorange": {
 		"categories": [
 			"lights",
+			"db_orangelantern",
 			"lantern"
 		],
 		"color": "#e66f27",
@@ -446,6 +466,7 @@
 	"lanternpink": {
 		"categories": [
 			"lights",
+			"eb_pinklantern",
 			"lantern"
 		],
 		"color": "#d233a6",
@@ -468,6 +489,7 @@
 	"lanternred": {
 		"categories": [
 			"lights",
+			"fb_redlantern",
 			"lantern"
 		],
 		"color": "#d33030",
@@ -490,6 +512,7 @@
 	"lanternwhite": {
 		"categories": [
 			"lights",
+			"gb_whitelantern",
 			"lantern"
 		],
 		"color": "#a7a7a7",
@@ -512,6 +535,7 @@
 	"lanternyellow": {
 		"categories": [
 			"lights",
+			"hb_yellowlantern",
 			"lantern"
 		],
 		"color": "#997b45",

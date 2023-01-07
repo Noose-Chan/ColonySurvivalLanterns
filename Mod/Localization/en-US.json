@@ -8,16 +8,7 @@
 			}
 		},
 		"category": {
-			"consumables": "Consumables",
-			"decorative": "Building Blocks",
-			"defense": "Defense",
-			"essential": "Essentials",
-			"food": "Food",
-			"ingredient": "Ingredients & Luxury",
-			"job": "Jobblocks",
-			"misc": "Misc",
-			"texres": "Textiles & Research",
-			"lights": "Lanterns"
+			"lights": "Lanterns+"
 		},
 		"npcs": {
 			"Noose": {
