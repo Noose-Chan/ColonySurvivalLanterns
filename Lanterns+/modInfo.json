@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Lanterns",
+		"version": "0.1.0.0",
+		"enableddefault": true,
+		"description" : "A mod adding more lanterns to the game",
+		"dllpath": "lanterns.dll",
+		"isoptional": true,
+		"compatibleversions":
+			[
+				"0.9.0"
+			],
+		"jsonFiles": [
+			{
+				"fileType": "addNewTypes",
+				"index": -1000000,
+				"relativePath": "./types.json"
+			},
+			{
+				"fileType": "addOrReplaceNPCRecipes",
+				"index": -1000000,
+				"npcType": "Noose.lanternmaker",
+				"relativePath": "./recipes_lanternmaker.json"
+			},
+{
+				"fileType": "addOrReplaceNPCRecipes",
+				"index": -1000000,
+				"npcType": "pipliz.jobblockcrafteradvanced",
+				"relativePath": "./recipes_jobblockcrafteradvanced.json"
+			},
+			{
+				"fileType": "addScience",
+				"index": -1000000,
+				"relativePath": "./science.json"
+			},
+			{
+				"fileType": "addOrOverrideLocalization",
+				"relativePath": "./Localization/en-US.json"
+			},
+			{
+				"fileType": "addOrOverrideTextureMappingEntries",
+				"index": -1000000,
+				"relativePath": "/textures/materials/texturemapping.json"
+			},
+			{
+				"fileType": "addOrReplaceNPCTypes",
+				"index": -1000000,
+				"relativePath": "/npctypes.json"
+			},
+			{
+				"fileType": "generateBlocks",
+				"index": -1000000,
+				"relativePath": "/generateblocks.json"
+			},
+			{
+                		 "fileType": "overrideTypeProperties",
+               			 "index": 15000,
+               			 "relativePath": "/typesoverride_lanterns+.json"
+            		}
+		]
+	}
+]
+
+//"albedo" : "gamedata/textures/materials/blocks/albedo/neutral.png"
+//"relativePath": "gamedata/textures/icons.json"

@@ -1,0 +1,19 @@
+{
+	"_settings": {
+		"defaultAlbedo": "./blocks/albedo/error.png",
+		"defaultEmissive": "./blocks/emissiveMaskAlpha/neutral.png",
+		"defaultHeight": "./blocks/heightSmoothnessSpecularity/neutral.png",
+		"defaultNormal": "./blocks/normal/neutral.png",
+		"fileExtension": ".png",
+		"folderAlbedo": "./blocks/albedo/",
+		"folderEmissive": "./blocks/emissiveMaskAlpha/",
+		"folderHeight": "./blocks/heightSmoothnessSpecularity/",
+		"folderNormal": "./blocks/normal/"
+	},
+
+"lanternmaker": {
+		"albedo": "lanternmaker",
+		"height": "crate",
+		"normal": "crate",
+	}
+}
