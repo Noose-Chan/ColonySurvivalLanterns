@@ -12,8 +12,5 @@
 	},
 
 "lanternmaker": {
-		"albedo": "lanternmaker",
-		"height": "crate",
-		"normal": "crate",
-	}
+		"albedo": "lanternmaker",}
 }
