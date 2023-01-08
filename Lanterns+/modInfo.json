@@ -1,10 +1,9 @@
 [
 	{
-		"name": "Lanterns",
+		"name": "Lanterns+",
 		"version": "0.1.0.0",
 		"enableddefault": true,
 		"description" : "A mod adding more lanterns to the game",
-		"dllpath": "lanterns.dll",
 		"isoptional": true,
 		"compatibleversions":
 			[
@@ -54,7 +53,7 @@
 			},
 			{
                 		 "fileType": "overrideTypeProperties",
-               			 "index": 15000,
+               			 "index": 10000,
                			 "relativePath": "/typesoverride_lanterns+.json"
             		}
 		]

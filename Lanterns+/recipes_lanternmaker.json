@@ -4,6 +4,9 @@
 		"defaultLimit": 30,
 		"name": "Noose.lanternmaker.lanternblue_dim",
 		"requires": [
+			{
+				"type": "lanternyellow"
+			},
 		{
 				"amount": 100,
 				"type": "alkanet"
@@ -29,6 +32,9 @@
 		"defaultLimit": 30,
 		"name": "Noose.lanternmaker.lanterncyan_dim",
 		"requires": [
+			{
+				"type": "lanternyellow"
+			},
 			{
 				"amount": 70,
 				"type": "alkanet"
@@ -59,6 +65,9 @@
 		"name": "Noose.lanternmaker.lanterngreen_dim",
 		"requires": [
 			{
+				"type": "lanternyellow"
+			},
+			{
 				"amount": 50,
 				"type": "alkanet"
 			},
@@ -87,6 +96,9 @@
 		"defaultLimit": 30,
 		"name": "Noose.lanternmaker.lanternpink_dim",
 		"requires": [
+			{
+				"type": "lanternyellow"
+			},
 			{
 				"amount": 50,
 				"type": "alkanet"
@@ -117,6 +129,9 @@
 		"name": "Noose.lanternmaker.lanternred_dim",
 		"requires": [
 			{
+				"type": "lanternyellow"
+			},
+			{
 				"amount": 100,
 				"type": "hollyhock"
 			}
@@ -142,15 +157,18 @@
 		"name": "Noose.lanternmaker.lanternwhite_dim",
 		"requires": [
 			{
-				"amount": 50,
+				"type": "lanternwhite"
+			},
+			{
+				"amount": 25,
 				"type": "alkanet"
 			},
 			{
-				"amount": 50,
+				"amount": 25,
 				"type": "hollyhock"
 			},
 			{
-				"amount": 50,
+				"amount": 25,
 				"type": "wolfsbane"
 			}
 		],
@@ -175,12 +193,18 @@
 		"name": "Noose.lanternmaker.lanternyellow_dim",
 		"requires": [
 			{
+				"type": "lanternyellow"
+			},
+			{
 				"amount": 100,
 				"type": "hollyhock"
 			}
 		],
 		"requiresScience": "Noose.lanternmaker",
 		"results": [
+			{
+				"type": "lanternyellow"
+			},
 			{
 				"type": "Noose.lanternmaker"
 			}
@@ -199,6 +223,9 @@
 		"defaultLimit": 30,
 		"name": "Noose.lanternmaker.lanternblue_bright",
 		"requires": [
+			{
+				"type": "lanternyellow"
+			},
 			{
 				"amount": 100,
 				"type": "alkanet"
@@ -224,6 +251,9 @@
 		"defaultLimit": 30,
 		"name": "Noose.lanternmaker.lanterncyan_bright",
 		"requires": [
+			{
+				"type": "lanternyellow"
+			},
 			{
 				"amount": 70,
 				"type": "alkanet"
@@ -254,6 +284,9 @@
 		"name": "Noose.lanternmaker.lanterngreen_bright",
 		"requires": [
 			{
+				"type": "lanternyellow"
+			},
+			{
 				"amount": 50,
 				"type": "alkanet"
 			},
@@ -283,15 +316,18 @@
 		"name": "Noose.lanternmaker.lanternorange_bright",
 		"requires": [
 			{
-				"amount": 50,
+				"type": "lanternorange"
+			},
+			{
+				"amount": 25,
 				"type": "alkanet"
 			},
 			{
-				"amount": 50,
+				"amount": 25,
 				"type": "hollyhock"
 			},
 			{
-				"amount": 50,
+				"amount": 25,
 				"type": "wolfsbane"
 			}
 		],
@@ -316,15 +352,18 @@
 		"name": "Noose.lanternmaker.lanternorange_dim",
 		"requires": [
 			{
-				"amount": 50,
+				"type": "lanternorange"
+			},
+			{
+				"amount": 25,
 				"type": "alkanet"
 			},
 			{
-				"amount": 50,
+				"amount": 25,
 				"type": "hollyhock"
 			},
 			{
-				"amount": 50,
+				"amount": 25,
 				"type": "wolfsbane"
 			}
 		],
@@ -348,6 +387,9 @@
 		"defaultLimit": 30,
 		"name": "Noose.lanternmaker.lanternpink_bright",
 		"requires": [
+			{
+				"type": "lanternyellow"
+			},
 			{
 				"amount": 50,
 				"type": "alkanet"
@@ -378,6 +420,9 @@
 		"name": "Noose.lanternmaker.lanternred_bright",
 		"requires": [
 			{
+				"type": "lanternyellow"
+			},
+			{
 				"amount": 100,
 				"type": "hollyhock"
 			}
@@ -403,15 +448,18 @@
 		"name": "Noose.lanternmaker.lanternwhite_bright",
 		"requires": [
 			{
-				"amount": 50,
+				"type": "lanternwhite"
+			},
+			{
+				"amount": 25,
 				"type": "alkanet"
 			},
 			{
-				"amount": 50,
+				"amount": 25,
 				"type": "hollyhock"
 			},
 			{
-				"amount": 50,
+				"amount": 25,
 				"type": "wolfsbane"
 			}
 		],
@@ -435,6 +483,9 @@
 		"defaultLimit": 30,
 		"name": "Noose.lanternmaker.lanternyellow_bright",
 		"requires": [
+			{
+				"type": "lanternyellow"
+			},
 			{
 				"amount": 100,
 				"type": "hollyhock"
